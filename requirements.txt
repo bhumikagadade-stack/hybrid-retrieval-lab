@@ -1,0 +1,12 @@
+
+rank-bm25
+numpy
+pandas
+tqdm
+sentence-transformers
+faiss-cpu
+scikit-learn
+streamlit
+fastapi
+uvicorn
+pytest
